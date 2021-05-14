@@ -1,7 +1,8 @@
 
-Hey, I'm Saumya Saxena! 👋
+##Hey, I'm **Saumya Saxena**! 👋
 
-🔭 I’m currently working on Swift .
-🌱 Also, I have started learning Flutter.
-📫 How to reach me: LinkedIn - https://www.linkedin.com/in/saumya-saxena-32b75b11a/
+🔭 I’m currently an iOS Developer.
+🌱 I’m currently learning more about Flutter.
+💬 Ask me about Flutter or any tech related stuff.
+📫 How to reach me: Twitter -  , Youtube - 
 😄 Pronouns: She/Her
