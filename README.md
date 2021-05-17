@@ -27,7 +27,7 @@
 
 💻 One line of code at a time. <br />
 
-♥️ Exploring new places [Instagram - @famtraveller](https://www.instagram.com/famtraveller/)  <br />
+♥️ Exploring new places : [Instagram - @famtraveller](https://www.instagram.com/famtraveller/)  <br />
 
 ✍🏻 I write blogs on : <br />
 [Medium - saumya2730](https://medium.com/@saumya.saxena2730), <br />
