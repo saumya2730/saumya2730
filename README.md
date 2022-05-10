@@ -36,7 +36,7 @@
 📫 How to reach me : <br />
 [LinkedIn - @saumya2730](https://www.linkedin.com/in/saumya-saxena-32b75b11a/) , <br />
 [Youtube - @upGrow](https://www.youtube.com/channel/UC_jIWWEU_8ROmlZc9vOdR4A) , <br />
-[Twitter - @saumya_flutter](https://twitter.com/saumya_flutter) , <br />
+[Twitter - @saumya_flutter](https://twitter.com/saumya_2730) , <br />
 [Instagram - @saumya_flutterdev](https://www.instagram.com/saumya_flutterdev/) <br />
 
 😄 Pronouns: She/Her
