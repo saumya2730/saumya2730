@@ -1,6 +1,6 @@
 ## Hey, I'm **Saumya Saxena**! 👋
 
-<a href="https://twitter.com/saumya_flutter">
+<a href="https://twitter.com/saumya_2730">
   <img align="left" alt="Saumya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/saumya-saxena-32b75b11a/">
