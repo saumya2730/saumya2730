@@ -21,7 +21,7 @@
 
 🔭 I’m currently working as an iOS Developer. <br />
 
-🌱 I’m currently learning more about Flutter. <br />
+🌱 Also, Learning more about Flutter and sharing my knowledge over various Social Media platforms. <br />
 
 💬 Ask me about Flutter, iOS or any tech related stuff. <br />
 
