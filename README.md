@@ -30,8 +30,9 @@
 ♥️ Exploring new places : [Instagram - @famtraveller](https://www.instagram.com/famtraveller/)  <br />
 
 ✍🏻 I write blogs on : <br />
-[Medium - saumya2730](https://medium.com/@saumya.saxena2730), <br />
+[Medium - saumya2730](https://medium.com/@saumya2730), <br />
 [GeeksforGeeks - saumya2730](https://auth.geeksforgeeks.org/user/saumyasaxena2730/articles), <br />
+[Talent500 - saumyasaxena](https://talent500.co/blog/author/saumya-saxena/), <br />
 
 📫 How to reach me : <br />
 [LinkedIn - @saumya2730](https://www.linkedin.com/in/saumya-saxena-32b75b11a/) , <br />
