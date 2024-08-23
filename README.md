@@ -1,20 +1,45 @@
 ## Hey, I'm **Saumya Saxena**! 👋
 
 <a href="https://twitter.com/saumya_2730">
-  <img align="left" alt="Saumya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Saumya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" class="twitter-icon" />
 </a>
+
+<style>
+  .twitter-icon {
+    filter: invert(1) brightness(0) saturate(100%);
+  }
+</style>
+
 <a href="https://www.linkedin.com/in/saumyasaxena27/">
-  <img align="left" alt="Saumya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Saumya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" class="linkedin-icon" />
 </a>
+
+<style>
+  .linkedin-icon {
+    filter: invert(1) brightness(0) saturate(100%);
+  }
+</style>
+
+
 <a href="https://www.instagram.com/saumya_flutterdev/">
-  <img align="left" alt="Saumya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Saumya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" class="instagram-icon" />
 </a>
+
+<style>
+  .instagram-icon {
+    filter: invert(1) brightness(0) saturate(100%);
+  }
+</style>
+
+
 <a href="https://www.youtube.com/channel/UC_jIWWEU_8ROmlZc9vOdR4A">
   <img align="left" alt="Saumya's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+
 <a href="https://www.instagram.com/codewithsaxena/">
   <img align="left" alt="Saumya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
 <a href="https://www.youtube.com/@codewithsaxena">
   <img align="left" alt="Saumya's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
