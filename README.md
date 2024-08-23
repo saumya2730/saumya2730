@@ -1,36 +1,20 @@
 ## Hey, I'm **Saumya Saxena**! 👋
 
 <a href="https://twitter.com/saumya_2730">
-  <img align="left" alt="Saumya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" class="twitter-icon" />
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22px" height="22px" fill="#1DA1F2">
+    <!-- SVG Path Data -->
+  </svg>
 </a>
 
-<style>
-  .twitter-icon {
-    filter: invert(1) brightness(0) saturate(100%);
-  }
-</style>
-
+</a>
 <a href="https://www.linkedin.com/in/saumyasaxena27/">
-  <img align="left" alt="Saumya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" class="linkedin-icon" />
+  <img align="left" alt="Saumya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
-<style>
-  .linkedin-icon {
-    filter: invert(1) brightness(0) saturate(100%);
-  }
-</style>
 
 
 <a href="https://www.instagram.com/saumya_flutterdev/">
-  <img align="left" alt="Saumya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" class="instagram-icon" />
+  <img align="left" alt="Saumya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="filter: invert(1) brightness(0) saturate(100%);" />
 </a>
-
-<style>
-  .instagram-icon {
-    filter: invert(1) brightness(0) saturate(100%);
-  }
-</style>
-
 
 <a href="https://www.youtube.com/channel/UC_jIWWEU_8ROmlZc9vOdR4A">
   <img align="left" alt="Saumya's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
