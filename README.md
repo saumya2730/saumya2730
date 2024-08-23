@@ -44,7 +44,6 @@
 [Twitter - @codewithsaxena](https://twitter.com/saumya_2730) , <br />
 [Instagram - @saumya_flutterdev](https://www.instagram.com/saumya_flutterdev/) <br />
 [Instagram - @codewithsaxena](https://www.instagram.com/codewithsaxena/) <br />
-[Twitter - @saumya_2730](https://x.com/saumya_2730) <br />
 [Hashnode - @codewithsaxena](https://codewithsaxena.hashnode.dev/) <br />
 
 😄 Pronouns: She/Her
