@@ -1,39 +1,5 @@
 ## Hey, I'm **Saumya Saxena**! 👋
 
-<a href="https://twitter.com/saumya_2730">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22px" height="22px" fill="#1DA1F2">
-    <!-- SVG Path Data -->
-  </svg>
-</a>
-
-</a>
-<a href="https://www.linkedin.com/in/saumyasaxena27/">
-  <img align="left" alt="Saumya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-
-<a href="https://www.instagram.com/saumya_flutterdev/">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22px" height="22px" fill="#FFFFFF">
-    <path d="M12 2.2c-5.4 0-9.8 4.4-9.8 9.8 0 5.4 4.4 9.8 9.8 9.8 5.4 0 9.8-4.4 9.8-9.8 0-5.4-4.4-9.8-9.8-9.8zm0 17.7c-4.4 0-8-3.6-8-8 0-4.4 3.6-8 8-8 4.4 0 8 3.6 8 8 0 4.4-3.6 8-8 8zm4.9-13.6c-.8 0-1.4.6-1.4 1.4 0 .8.6 1.4 1.4 1.4.8 0 1.4-.6 1.4-1.4 0-.8-.6-1.4-1.4-1.4zm-4.9 2.7c-2.9 0-5.3 2.4-5.3 5.3s2.4 5.3 5.3 5.3 5.3-2.4 5.3-5.3-2.4-5.3-5.3-5.3zm7.5-.9c0 .5-.4.9-.9.9-.5 0-.9-.4-.9-.9s.4-.9.9-.9.9.4.9.9z"/>
-  </svg>
-</a>
-
-
-<a href="https://www.youtube.com/channel/UC_jIWWEU_8ROmlZc9vOdR4A">
-  <img align="left" alt="Saumya's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-
-<a href="https://www.instagram.com/codewithsaxena/">
-  <img align="left" alt="Saumya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<a href="https://www.youtube.com/@codewithsaxena">
-  <img align="left" alt="Saumya's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-
-<br/>
-<br/>
-
 🔭 I’m currently working as an iOS Developer. <br />
 
 🌱 Also, Learning more about iOS, Flutter and sharing my knowledge over various Social Media platforms. <br />
