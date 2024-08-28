@@ -19,7 +19,7 @@
 [LinkedIn - @saumya2730](https://www.linkedin.com/in/saumyasaxena27/) , <br />
 [Youtube - @upGrow](https://www.youtube.com/channel/UC_jIWWEU_8ROmlZc9vOdR4A) , <br />
 [Youtube - @codewithsaxena](https://www.youtube.com/@codewithsaxena) , <br />
-[Twitter - @codewithsaxena](https://twitter.com/saumya_2730) , <br />
+[Twitter - @codewithsaxena](https://x.com/codewithsaxena) , <br />
 [Instagram - @saumya_flutterdev](https://www.instagram.com/saumya_flutterdev/) <br />
 [Instagram - @codewithsaxena](https://www.instagram.com/codewithsaxena/) <br />
 [Hashnode - @codewithsaxena](https://codewithsaxena.hashnode.dev/) <br />
